@@ -4,8 +4,8 @@
   "description": "Chat app",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/app.js",
-    "dev": "nodemon src/app.js -e js,hbs"
+    "start": "node src/index.js",
+    "dev": "nodemon"
   },
   "author": "",
   "license": "ISC",
